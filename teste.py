@@ -20,6 +20,5 @@ st.markdown("<h3 style='font-size: 16px;'>Wanderson Moura da Silva</h3>", unsafe
 st.markdown("<h3 style='font-size: 16px;'>Fellipe de Brito Lira Batista</h3>", unsafe_allow_html=True)
 
 
-
 # Feche a conexão após o uso
 connection.close()
